@@ -1,0 +1,3 @@
+StudentA-50
+StudentB-30
+StudentC-40
